@@ -1,1 +1,15 @@
-# react-components-practice
+# react-components-practise
+## week-one-exercise
+1. **Counter** : [ codeSandBox-link ](https://vzo38.csb.app/)
+2. **Twitter character counter** : [ codeSandBox-link ](https://wqupm.csb.app/)
+3. **Password match** : [ codeSandBox-link ](https://gvon2.csb.app/)
+4. **Alphanumeric password** : [ codeSandBox-link ](https://41vyh.csb.app/)
+5. **Disable Submit Btn** : [ codeSandBox-link ](https://m44h3.csb.app/)
+6. **Show Password Component** : [ codeSandBox-link ](https://k3v3r.csb.app/)
+7. **Figma Usecase** :  [ codeSandBox-link ](https://xoh83.csb.app/)
+8. **Cart** : [ codeSandBox-link ](https://x0d2z.csb.app/)
+9. **switch tabs** : [ codeSandBox-link ](https://5e8ml.csb.app/)
+10. **Toast** : [ codeSandBox-link ](https://ibpk4.csb.app/)
+11. **Todo/Strikethrough** : [ codeSandBox-link ](https://u09sz.csb.app/)
+12. **Dark Mode** : [ codeSandBox-link ](https://k4m63.csb.app/)
+13. **Like In a List** : [ codeSandBox-link ](https://us6xw.csb.app/)
