@@ -2,7 +2,7 @@
 ## week-one-exercise
 1. **Counter** : [ codeSandBox-link ](https://vzo38.csb.app/)
 2. **Twitter character counter** : [ codeSandBox-link ](https://wqupm.csb.app/)
-3. **Password match** : [ codeSandBox-link ](https://gvon2.csb.app/)
+3. **Password match** : [ codeSandBox-link ](https://79c1k.csb.app/)
 4. **Alphanumeric password** : [ codeSandBox-link ](https://41vyh.csb.app/)
 5. **Disable Submit Btn** : [ codeSandBox-link ](https://m44h3.csb.app/)
 6. **Show Password Component** : [ codeSandBox-link ](https://k3v3r.csb.app/)
